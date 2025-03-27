@@ -82,11 +82,3 @@ The predictions are then displayed in the user interface.
 Visualization:
 Data visualizations, including word clouds and performance metrics, are generated to enhance user understanding.
 
-Contributing
-Contributions are welcome! If you would like to contribute to this project, please fork the repository and submit a pull request. Ensure that your code adheres to the project's coding standards and 
-includes appropriate documentation.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for more details. Feel free to modify this README file according to your specific needs, including adding any additional sections
-or information relevant to your project. This structure provides a clear overview of your app and guides users through installation and usage. If you have any further questions or need additional assistance,
-feel free to ask!
